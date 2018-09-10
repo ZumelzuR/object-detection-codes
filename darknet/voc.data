@@ -1,0 +1,6 @@
+classes= 1
+train  = train_list_full_path.txt
+valid  = test_list_full_path.txt
+names = voc.names
+backup = backup/second
+eval=coco
