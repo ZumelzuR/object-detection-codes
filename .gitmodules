@@ -1,0 +1,3 @@
+[submodule "darknet/Tracking-with-darkflow"]
+	path = darknet/Tracking-with-darkflow
+	url = https://github.com/bendidi/Tracking-with-darkflow.git
