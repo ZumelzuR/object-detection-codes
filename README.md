@@ -2,4 +2,4 @@ This repository contains the custom source files related to each object detectio
 
 Additionally source codes related to tracking projects are in /darknet
 
-(This project don't includes the weigths or datasets, you can find it in the CITIC-UGR server)
+This repository just includes custom source codes and developments related with each library, python scripts related with data manipulation, and python scripts related with tracking. This repository doesn't includes the weigths or datasets, you can find all in the CITIC-UGR server.
